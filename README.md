@@ -36,12 +36,14 @@ Step-by-step instructions can be found in our
 
 ### Clone this repository
 
+Canonical copy (Apollo org):
+
 ```zsh
-git clone https://github.com/SabateurAssasin/round-robin-router.git
+git clone https://github.com/apolloio/round-robin-router.git
 cd round-robin-router
 ```
 
-Use your fork’s URL instead if you are not using this account’s copy.
+A [maintainer fork](https://github.com/SabateurAssasin/round-robin-router) also exists if you need it.
 
 ## Running Your Project Locally
 
